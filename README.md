@@ -1,6 +1,6 @@
 Book Management System
 ====================== 
-*COMP2401 Assignment*
+*COMP2404 Assignment*
 
 Simple book and product management system. Supports adding courses, adding books to the courses, adding products, listing courses and listing products. Now also supports a simple tutor database, with options to book tutors who are currently available.
 
